@@ -21,7 +21,17 @@ def main():
 if __name__ == '__main__':
     main()
     
+<<<<<<< HEAD
  
     
     dene1
-    
+=======
+    asd
+    EVEN MORE ASD!!!!
+
+    üçüncü deneme
+    üçüncü deneme ikii
+
+
+    dene1
+
